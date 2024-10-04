@@ -3,8 +3,6 @@
 
 ### **Explorando Automação, Desenvolvimento e Design Criativo**
 
-Este repositório é dedicado aos meus projetos em **automação de redes**, **automação residencial**, **desenvolvimento web** e **design de interfaces**. Cada projeto combina **eficiência tecnológica** com **experiências visuais impactantes**, criando soluções práticas e inovadoras.
-
 ---
 
 ## 🛠️ **Áreas de Atuação**
