@@ -1,7 +1,7 @@
 ## 🔥 GitHub Streak
 <div style="text-align: center; margin-top: 20px;">
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=Saulo-Peixoto&theme=highcontrast" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=SauloAPeixoto&theme=highcontrast" alt="GitHub Streak" />
     </a>
 </div>
 
