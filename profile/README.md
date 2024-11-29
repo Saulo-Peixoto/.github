@@ -1,4 +1,5 @@
 ## 🌟 **Projetos em Destaque**
+
 <div style="text-align: center;">
 
 ### [Velaire Website](https://velaire.com.br)
@@ -10,8 +11,9 @@
     <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript" alt="JavaScript" />
     <p><strong>Description:</strong> Website for the Velaire brand, showcasing aromatic candles and more.</p>
 </div>
-    <div style="text-align: center;">
-    
+
+<div style="text-align: center;">
+
 ### [HWNET Website](https://hwnet.com.br) e [HWNET APP]()
 <a href="https://hwnet.com.br">
         <img src="https://img.shields.io/website-up-down-green-red/http/hwnet.com.br.svg" alt="Website Status" />
@@ -28,15 +30,27 @@
 
 <div style="text-align: center;">
 
-### [Network Monitoring System]()
-<img src="https://img.shields.io/badge/Zabbix-Monitoring-red?style=flat-square&logo=zabbix" alt="Zabbix" />
-<img src="https://img.shields.io/badge/Grafana-7.3.6-orange?style=flat-square&logo=grafana" alt="Grafana" />
-<img src="https://img.shields.io/badge/Mikrotik-Router-blue?style=flat-square&logo=mikrotik" alt="Mikrotik" />
-<img src="https://img.shields.io/badge/Kibana-7.10.1-pink?style=flat-square&logo=kibana" alt="Kibana" />
-<p><strong>Description:</strong> A complete network monitoring solution using Zabbix and Mikrotik routers.</p>
+### [Downtown Roleplay](https://www.downtownroleplay.com.br)
+<a href="https://www.downtownroleplay.com.br">
+        <img src="https://img.shields.io/website-up-down-green-red/http/www.downtownroleplay.com.br.svg" alt="Website Status" />
+</a>
+    <img src="https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3" alt="CSS" />
+    <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Discord%20Webhooks-Enabled-blue?style=flat-square&logo=discord" alt="Discord Webhooks" />
+    <p><strong>Description:</strong> Community websites for Downtown Roleplay, featuring roleplay resources and integrations.</p>
 </div>
 
-![Auto Assign](https://github.com/Saulo-Peixoto/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+<div style="text-align: center;">
 
-![Proof HTML](https://github.com/Saulo-Peixoto/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+### [CDN Downtown](https://github.com/Saulo-Peixoto/downtown-cdn)
+<a href="https://www.downtownrp.com.br">
+        <img src="https://img.shields.io/website-up-down-green-red/http/www.downtownrp.com.br.svg" alt="Website Status" />
+</a>
+<a href="https://github.com/downtown-roleplay/downtown-images/">
+    </a>
+    <img src="https://img.shields.io/badge/GitHub%20Pages-Active-blue?style=flat-square&logo=github" alt="GitHub Pages" />
+    <img src="https://img.shields.io/badge/Cloudflare%20R2-Storage-orange?style=flat-square&logo=cloudflare" alt="Cloudflare R2" />
+    <p><strong>Description:</strong> Content Delivery Network (CDN) setup for Downtown Roleplay using GitHub Pages and Cloudflare R2.</p>
+</div>
 
