@@ -35,3 +35,8 @@
 <img src="https://img.shields.io/badge/Kibana-7.10.1-pink?style=flat-square&logo=kibana" alt="Kibana" />
 <p><strong>Description:</strong> A complete network monitoring solution using Zabbix and Mikrotik routers.</p>
 </div>
+
+![Auto Assign](https://github.com/Saulo-Peixoto/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+
+![Proof HTML](https://github.com/Saulo-Peixoto/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+
