@@ -44,7 +44,7 @@
 <div style="text-align: center;">
 
 ### [CDN Downtown](https://github.com/Saulo-Peixoto/downtown-cdn)
-<a href="https://www.downtownrp.com.br">
+<a href="https://cdn.downtownrp.com.br">
         <img src="https://img.shields.io/website-up-down-green-red/http/www.downtownrp.com.br.svg" alt="Website Status" />
 </a>
 <a href="https://github.com/downtown-roleplay/downtown-images/">
